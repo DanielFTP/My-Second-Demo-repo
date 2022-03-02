@@ -1,4 +1,6 @@
-# Git and GitHub Intro
+## Git and GitHub Intro
 
-## New repository
+New repository
+
 1. Create a new file, at top.
+2. 
